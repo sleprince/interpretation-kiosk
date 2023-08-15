@@ -1,3 +1,5 @@
+timeout /t 5
+
 @echo off
 taskkill /F /IM chrome.exe
 
